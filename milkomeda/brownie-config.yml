@@ -1,0 +1,4 @@
+# brownie-config.yml
+dotenv: .env
+wallets:
+ - dummy: ${PRIVATE_KEY}
